@@ -1,0 +1,31 @@
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\bin\Debug\net8.0\appsettings.Development.json
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\bin\Debug\net8.0\appsettings.json
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\bin\Debug\net8.0\DotNet Cameroon.staticwebassets.runtime.json
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\bin\Debug\net8.0\DotNet Cameroon.exe
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\bin\Debug\net8.0\DotNet Cameroon.deps.json
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\bin\Debug\net8.0\DotNet Cameroon.runtimeconfig.json
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\bin\Debug\net8.0\DotNet Cameroon.dll
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\bin\Debug\net8.0\DotNet Cameroon.pdb
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\obj\Debug\net8.0\DotNet Cameroon.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\obj\Debug\net8.0\DotNet Cameroon.AssemblyInfoInputs.cache
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\obj\Debug\net8.0\DotNet Cameroon.AssemblyInfo.cs
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\obj\Debug\net8.0\DotNet Cameroon.csproj.CoreCompileInputs.cache
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\obj\Debug\net8.0\DotNet Cameroon.MvcApplicationPartsAssemblyInfo.cache
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\obj\Debug\net8.0\DotNet Cameroon.RazorAssemblyInfo.cache
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\obj\Debug\net8.0\DotNet Cameroon.RazorAssemblyInfo.cs
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\obj\Debug\net8.0\staticwebassets.build.json
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\obj\Debug\net8.0\staticwebassets.development.json
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\obj\Debug\net8.0\staticwebassets\msbuild.DotNet Cameroon.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\obj\Debug\net8.0\staticwebassets\msbuild.build.DotNet Cameroon.props
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DotNet Cameroon.props
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DotNet Cameroon.props
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\obj\Debug\net8.0\scopedcss\bundle\DotNet Cameroon.styles.css
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\obj\Debug\net8.0\scopedcss\projectbundle\DotNet Cameroon.bundle.scp.css
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\obj\Debug\net8.0\DotNet Cameroon.dll
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\obj\Debug\net8.0\refint\DotNet Cameroon.dll
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\obj\Debug\net8.0\DotNet Cameroon.pdb
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\obj\Debug\net8.0\DotNet Cameroon.genruntimeconfig.cache
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\obj\Debug\net8.0\ref\DotNet Cameroon.dll
+E:\Projets\Dotnet Cameroon\Web Site Community Dotnet ASP.NET\obj\Debug\net8.0\DotNet Cameroon.sourcelink.json

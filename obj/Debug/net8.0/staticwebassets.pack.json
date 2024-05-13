@@ -1,0 +1,441 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DotNet Cameroon.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DotNet Cameroon.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\landingpage\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\css\\style.css",
+      "PackagePath": "staticwebassets\\landingpage\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\img\\infinitydays_2023\\DotNetCameroon-2.jpg",
+      "PackagePath": "staticwebassets\\landingpage\\img\\infinitydays_2023\\DotNetCameroon-2.jpg"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\img\\infinitydays_2023\\_DSC5628.jpg",
+      "PackagePath": "staticwebassets\\landingpage\\img\\infinitydays_2023\\_DSC5628.jpg"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\img\\infinitydays_2023\\_DSC5658.jpg",
+      "PackagePath": "staticwebassets\\landingpage\\img\\infinitydays_2023\\_DSC5658.jpg"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\img\\infinitydays_2023\\_DSC5659.jpg",
+      "PackagePath": "staticwebassets\\landingpage\\img\\infinitydays_2023\\_DSC5659.jpg"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\img\\infinitydays_2023\\_DSC5661.jpg",
+      "PackagePath": "staticwebassets\\landingpage\\img\\infinitydays_2023\\_DSC5661.jpg"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\img\\infinitydays_2023\\_DSC5663.jpg",
+      "PackagePath": "staticwebassets\\landingpage\\img\\infinitydays_2023\\_DSC5663.jpg"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\img\\infinitydays_2023\\_DSC5665.jpg",
+      "PackagePath": "staticwebassets\\landingpage\\img\\infinitydays_2023\\_DSC5665.jpg"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\img\\infinitydays_2023\\_DSC5666.jpg",
+      "PackagePath": "staticwebassets\\landingpage\\img\\infinitydays_2023\\_DSC5666.jpg"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\img\\infinitydays_2023\\_DSC5668.jpg",
+      "PackagePath": "staticwebassets\\landingpage\\img\\infinitydays_2023\\_DSC5668.jpg"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\img\\organizer\\Septimelowe.jpeg",
+      "PackagePath": "staticwebassets\\landingpage\\img\\organizer\\Septimelowe.jpeg"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\img\\organizer\\YvanBrunel.jpeg",
+      "PackagePath": "staticwebassets\\landingpage\\img\\organizer\\YvanBrunel.jpeg"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\img\\organizer\\_DSC5588.jpg",
+      "PackagePath": "staticwebassets\\landingpage\\img\\organizer\\_DSC5588.jpg"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\img\\organizer\\djouffson.jpg",
+      "PackagePath": "staticwebassets\\landingpage\\img\\organizer\\djouffson.jpg"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\img\\organizer\\jauresbeinjamin.jpeg",
+      "PackagePath": "staticwebassets\\landingpage\\img\\organizer\\jauresbeinjamin.jpeg"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\img\\organizer\\yvanbrunel1.jpeg",
+      "PackagePath": "staticwebassets\\landingpage\\img\\organizer\\yvanbrunel1.jpeg"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\img\\sponsor\\Microsoft-Logo.wine.svg",
+      "PackagePath": "staticwebassets\\landingpage\\img\\sponsor\\Microsoft-Logo.wine.svg"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\img\\sponsor\\dotnetfondation.webp",
+      "PackagePath": "staticwebassets\\landingpage\\img\\sponsor\\dotnetfondation.webp"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\img\\sponsor\\jetbrainslogo.png",
+      "PackagePath": "staticwebassets\\landingpage\\img\\sponsor\\jetbrainslogo.png"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\img\\sponsor\\microsoft.webp",
+      "PackagePath": "staticwebassets\\landingpage\\img\\sponsor\\microsoft.webp"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\img\\sponsor\\packt.svg",
+      "PackagePath": "staticwebassets\\landingpage\\img\\sponsor\\packt.svg"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\js\\main.js",
+      "PackagePath": "staticwebassets\\landingpage\\js\\main.js"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\landingpage\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\landingpage\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\landingpage\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\landingpage\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\landingpage\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\landingpage\\lib\\owlcarousel"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\landingpage\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\landingpage\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\landingpage\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\landingpage\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\landingpage\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\landingpage\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\landingpage\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\landingpage\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\landingpage\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\landingpage\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\landingpage\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\landingpage\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\landingpage\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\landingpage\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\landingpage\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Projets\\Dotnet Cameroon\\Web Site Community Dotnet ASP.NET\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DotNet Cameroon.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DotNet Cameroon.props",
+      "PackagePath": "build\\DotNet Cameroon.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DotNet Cameroon.props",
+      "PackagePath": "buildMultiTargeting\\DotNet Cameroon.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DotNet Cameroon.props",
+      "PackagePath": "buildTransitive\\DotNet Cameroon.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
