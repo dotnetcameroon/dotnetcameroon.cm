@@ -3,12 +3,32 @@
 
 <head>
     <meta charset="utf-8">
-    <title>DotNet Cameroom</title>
+    <title>.NET Cameroon</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
-    <link rel="icon" href="/favicon.png" type="image/png">
 
+    <!-- Open Graph meta tags -->
+    <meta property="og:title" content="Welcome to .NET Cameroon, the biggest .NET community of engaged developers in Cameroon">
+    <meta property="og:description" content="We are a group of passionate .NET enthusiasts based in Cameroon, committed to promoting Microsoft technologies and fostering interest in the local community. Our goal is to collaborate on projects that showcase the power and potential of .NET, and we welcome anyone who shares our passion to join us in this mission.">
+    <meta property="og:image" content="https://dotnetcameroon.azurewebsites.net/logo.png">
+    <meta property="og:url" content="https://dotnetcameroon.azurewebsites.net">
+
+    <!-- Twitter Card meta tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Welcome to .NET Cameroon, the biggest .NET community of engaged developers in Cameroon">
+    <meta name="twitter:description" content="We are a group of passionate .NET enthusiasts based in Cameroon, committed to promoting Microsoft technologies and fostering interest in the local community. Our goal is to collaborate on projects that showcase the power and potential of .NET, and we welcome anyone who shares our passion to join us in this mission.">
+    <meta name="twitter:image" content="https://dotnetcameroon.azurewebsites.net/logo.png">
+
+    <!-- Favicon -->
+    <link rel="icon" href="/favicon.png" type="image/png">
+@* 
+    <link rel="stylesheet" href="css/app.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap" rel="stylesheet"> *@
+    <script src="/references/schema.json" type="application/ld+json">
+    </script>
     @await Html.PartialAsync("__css")
     @await RenderSectionAsync("Styles", required: false)
 </head>
