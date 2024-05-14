@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotNet Cameroon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35eeef484dbaf6b898e7b326b9bedeeac5857368")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce8cad69d4cb131f3b972bbe494a6b23318109b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotNet Cameroon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotNet Cameroon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
