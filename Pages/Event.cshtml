@@ -1,0 +1,19 @@
+﻿@page
+@model DotNet_Cameroon.Pages.EventModel
+@{
+}
+<!-- Facts Start -->
+@await Html.PartialAsync("__FactCounter")
+<!-- Facts Start -->
+<!-- Service Start -->
+@await Html.PartialAsync("__Event")
+<!-- Service End -->
+<!-- Service Start -->
+@await Html.PartialAsync("__Speaker")
+<!-- Service End -->
+<!-- Service Start -->
+@await Html.PartialAsync("__Gallery")
+<!-- Service End -->
+<!-- Vendor Start -->
+@await Html.PartialAsync("__Vendor")
+<!-- Vendor End -->
