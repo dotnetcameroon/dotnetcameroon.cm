@@ -1,13 +1,159 @@
 ﻿<!DOCTYPE html>
-
-<html>
+<html lang="en">
 <head>
-    <meta name="viewport" content="width=device-width" />
-    <title>@ViewBag.Title</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Countdown & Services</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .section-padding {
+            padding: 60px 0;
+        }
+
+        .section-title-header {
+            margin-bottom: 60px;
+        }
+
+        .services-item {
+            margin-bottom: 30px;
+            padding: 30px;
+            background-color: #f8f9fa;
+            border-radius: 8px;
+            text-align: center;
+        }
+
+            .services-item .icon {
+                font-size: 48px;
+                margin-bottom: 15px;
+            }
+
+        .btn-common {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+        }
+
+            .btn-common:hover {
+                background-color: #0056b3;
+            }
+    </style>
 </head>
 <body>
-    <div>
-        @RenderBody()
-    </div>
+
+    <!-- Countdown Section Start -->
+    <section class="countdown-timer section-padding text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="heading-count">
+                        <h2 class="wow fadeInDown" data-wow-delay="0.2s">Event Will Start In</h2>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="row time-countdown justify-content-center wow fadeInUp" data-wow-delay="0.2s">
+                        <div id="clock" class="time-count"></div>
+                    </div>
+                    <a href="pricing.html" class="btn btn-common wow fadeInUp" data-wow-delay="0.3s">Add to My Calendar</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Countdown Section End -->
+    <!-- Services Section Start -->
+    <section id="services" class="services section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="section-title-header text-center">
+                        <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Why You Choose Us?</h1>
+                        <p class="wow fadeInDown" data-wow-delay="0.2s">Global Grand Event on Digital Design</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row services-wrapper">
+                <!-- Services item -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="services-item wow fadeInDown" data-wow-delay="0.2s">
+                        <div class="icon">
+                            <i class="lni-heart"></i>
+                        </div>
+                        <div class="services-content">
+                            <h3><a href="#">Get Inspired</a></h3>
+                            <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Services item -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="services-item wow fadeInDown" data-wow-delay="0.4s">
+                        <div class="icon">
+                            <i class="lni-gallery"></i>
+                        </div>
+                        <div class="services-content">
+                            <h3><a href="#">Meet New Faces</a></h3>
+                            <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Services item -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="services-item wow fadeInDown" data-wow-delay="0.6s">
+                        <div class="icon">
+                            <i class="lni-envelope"></i>
+                        </div>
+                        <div class="services-content">
+                            <h3><a href="#">Fresh Tech Insights</a></h3>
+                            <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Services item -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="services-item wow fadeInDown" data-wow-delay="0.8s">
+                        <div class="icon">
+                            <i class="lni-cup"></i>
+                        </div>
+                        <div class="services-content">
+                            <h3><a href="#">Networking Session</a></h3>
+                            <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Services item -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="services-item wow fadeInDown" data-wow-delay="1s">
+                        <div class="icon">
+                            <i class="lni-user"></i>
+                        </div>
+                        <div class="services-content">
+                            <h3><a href="#">Global Event</a></h3>
+                            <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Services item -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="services-item wow fadeInDown" data-wow-delay="1.2s">
+                        <div class="icon">
+                            <i class="lni-bubble"></i>
+                        </div>
+                        <div class="services-content">
+                            <h3><a href="#">Free Swags</a></h3>
+                            <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Services Section End -->
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.5.4/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+    <script>
+        new WOW().init();
+    </script>
 </body>
 </html>

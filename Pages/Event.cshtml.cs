@@ -1,3 +1,4 @@
+using DotNetCameroon;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
@@ -7,6 +8,7 @@ namespace DotNet_Cameroon.Pages
     {
         public void OnGet()
         {
+            this.SetupViewDataTitleFromUrl();
         }
     }
 }
