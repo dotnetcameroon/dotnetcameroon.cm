@@ -1,327 +1,112 @@
-﻿<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Event Countdown & Services</title>
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0/css/bootstrap.min.css" rel="stylesheet">
-    <style>
-        .section-padding {
-            padding: 60px 0;
-        }
-
-        .section-title-header {
-            margin-bottom: 60px;
-        }
-
-        .services-item {
-            margin-bottom: 30px;
-            padding: 30px;
-            background-color: #f8f9fa;
-            border-radius: 8px;
-            text-align: center;
-        }
-
-            .services-item .icon {
-                font-size: 48px;
-                margin-bottom: 15px;
-            }
-
-        .btn-common {
-            background-color: #007bff;
-            color: #fff;
-            border: none;
-        }
-
-            .btn-common:hover {
-                background-color: #0056b3;
-            }
-    </style>
-</head>
-<body>
-
-    <!-- Countdown Section Start -->
-    <section class="countdown-timer section-padding text-center">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="heading-count">
-                        <h2 class="wow fadeInDown" data-wow-delay="0.2s">Event Will Start In</h2>
-                    </div>
-                </div>
-                <div class="col-12">
-                    <div class="row time-countdown justify-content-center wow fadeInUp" data-wow-delay="0.2s">
-                        <div id="clock" class="time-count"></div>
-                    </div>
-                    <a href="pricing.html" class="btn btn-common wow fadeInUp" data-wow-delay="0.3s">Add to My Calendar</a>
+﻿<!-- Countdown Section Start -->
+<section class="countdown-timer section-padding">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col">
+                <h2 class="fw-bold mb-4">DotNet Conf 2024 Cameroun</h2>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-auto">
+                <div id="clock" class="time-count"></div>
+            </div>
+        </div>
+        <div class="row justify-content-center mt-4">
+            <div class="col-auto">
+                <a href="pricing.html" class="btn btn-primary">S'Inscrire</a>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="mt-5"></div>
+<!-- Countdown Section End -->
+<!-- Services Section Start -->
+<section id="services" class="services section-padding bg-light">
+    <div class="container">
+        <div class="row">
+            <div class="col text-center">
+                <div class="section-title-header">
+                    <h2 class="section-title mb-4 fw-bold">Pourquoi Nous Choisir ?</h2>
+                    <p class="section-subtitle">Événement mondial sur les technologies de l'information</p>
                 </div>
             </div>
         </div>
-    </section>
-    <!-- Countdown Section End -->
-    <!-- Services Section Start -->
-    <section id="services" class="services section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="section-title-header text-center">
-                        <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Why You Choose Us?</h1>
-                        <p class="wow fadeInDown" data-wow-delay="0.2s">Global Grand Event on Digital Design</p>
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+            <!-- Services item -->
+            <div class="col">
+                <div class="services-item text-center bg-white p-4 rounded-3 shadow-sm">
+                    <div class="icon mb-3">
+                        <i class="lni-desktop display-4 text-primary"></i>
+                    </div>
+                    <div class="services-content">
+                        <h3 class="mb-3"><a href="#" class="text-decoration-none text-dark">Développement IT</a></h3>
+                        <p class="mb-0">Découvrez les dernières tendances et pratiques en matière de développement IT.</p>
                     </div>
                 </div>
             </div>
-            <div class="row services-wrapper">
-                <!-- Services item -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="services-item wow fadeInDown" data-wow-delay="0.2s">
-                        <div class="icon">
-                            <i class="lni-heart"></i>
-                        </div>
-                        <div class="services-content">
-                            <h3><a href="#">Get Inspired</a></h3>
-                            <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
-                        </div>
+            <!-- Services item -->
+            <div class="col">
+                <div class="services-item text-center bg-white p-4 rounded-3 shadow-sm">
+                    <div class="icon mb-3">
+                        <i class="lni-cloud display-4 text-primary"></i>
+                    </div>
+                    <div class="services-content">
+                        <h3 class="mb-3"><a href="#" class="text-decoration-none text-dark">Cloud Computing</a></h3>
+                        <p class="mb-0">Explorez les innovations et les solutions de cloud computing pour les entreprises.</p>
                     </div>
                 </div>
-                <!-- Services item -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="services-item wow fadeInDown" data-wow-delay="0.4s">
-                        <div class="icon">
-                            <i class="lni-gallery"></i>
-                        </div>
-                        <div class="services-content">
-                            <h3><a href="#">Meet New Faces</a></h3>
-                            <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
-                        </div>
+            </div>
+            <!-- Services item -->
+            <div class="col">
+                <div class="services-item text-center bg-white p-4 rounded-3 shadow-sm">
+                    <div class="icon mb-3">
+                        <i class="lni-server display-4 text-primary"></i>
+                    </div>
+                    <div class="services-content">
+                        <h3 class="mb-3"><a href="#" class="text-decoration-none text-dark">Infrastructure IT</a></h3>
+                        <p class="mb-0">Informations sur la gestion et l'optimisation des infrastructures IT.</p>
                     </div>
                 </div>
-                <!-- Services item -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="services-item wow fadeInDown" data-wow-delay="0.6s">
-                        <div class="icon">
-                            <i class="lni-envelope"></i>
-                        </div>
-                        <div class="services-content">
-                            <h3><a href="#">Fresh Tech Insights</a></h3>
-                            <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
-                        </div>
+            </div>
+            <!-- Services item -->
+            <div class="col">
+                <div class="services-item text-center bg-white p-4 rounded-3 shadow-sm">
+                    <div class="icon mb-3">
+                        <i class="lni-database display-4 text-primary"></i>
+                    </div>
+                    <div class="services-content">
+                        <h3 class="mb-3"><a href="#" class="text-decoration-none text-dark">Big Data</a></h3>
+                        <p class="mb-0">Approfondissez vos connaissances sur le traitement et l'analyse des données massives.</p>
                     </div>
                 </div>
-                <!-- Services item -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="services-item wow fadeInDown" data-wow-delay="0.8s">
-                        <div class="icon">
-                            <i class="lni-cup"></i>
-                        </div>
-                        <div class="services-content">
-                            <h3><a href="#">Networking Session</a></h3>
-                            <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
-                        </div>
+            </div>
+            <!-- Services item -->
+            <div class="col">
+                <div class="services-item text-center bg-white p-4 rounded-3 shadow-sm">
+                    <div class="icon mb-3">
+                        <i class="lni-mobile display-4 text-primary"></i>
+                    </div>
+                    <div class="services-content">
+                        <h3 class="mb-3"><a href="#" class="text-decoration-none text-dark">Applications Mobiles</a></h3>
+                        <p class="mb-0">Innovations et meilleures pratiques pour le développement d'applications mobiles.</p>
                     </div>
                 </div>
-                <!-- Services item -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="services-item wow fadeInDown" data-wow-delay="1s">
-                        <div class="icon">
-                            <i class="lni-user"></i>
-                        </div>
-                        <div class="services-content">
-                            <h3><a href="#">Global Event</a></h3>
-                            <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
-                        </div>
+            </div>
+            <!-- Services item -->
+            <div class="col">
+                <div class="services-item text-center bg-white p-4 rounded-3 shadow-sm">
+                    <div class="icon mb-3">
+                        <i class="lni-monitor display-4 text-primary"></i>
                     </div>
-                </div>
-                <!-- Services item -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="services-item wow fadeInDown" data-wow-delay="1.2s">
-                        <div class="icon">
-                            <i class="lni-bubble"></i>
-                        </div>
-                        <div class="services-content">
-                            <h3><a href="#">Free Swags</a></h3>
-                            <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
-                        </div>
+                    <div class="services-content">
+                        <h3 class="mb-3"><a href="#" class="text-decoration-none text-dark">Cybersécurité</a></h3>
+                        <p class="mb-0">Stratégies et technologies de pointe pour la sécurité informatique et des données.</p>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
-    <!-- Services Section End -->
-    <!-- About Section Start -->
-    <section id="about" class="section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="section-title-header text-center">
-                        <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">About This Event</h1>
-                        <p class="wow fadeInDown" data-wow-delay="0.2s">Global Grand Event on Digital Design</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-12 col-md-6 col-lg-4">
-                    <div class="about-item">
-                        <img class="img-fluid" src="assets/img/about/img1.jpg" alt="">
-                        <div class="about-text">
-                            <h3><a href="#">Wanna Know Our Mission?</a></h3>
-                            <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
-                            <a class="btn btn-common btn-rm" href="#">Read More</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6 col-lg-4">
-                    <div class="about-item">
-                        <img class="img-fluid" src="assets/img/about/img2.jpg" alt="">
-                        <div class="about-text">
-                            <h3><a href="#">What you will learn?</a></h3>
-                            <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
-                            <a class="btn btn-common btn-rm" href="#">Read More</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6 col-lg-4">
-                    <div class="about-item">
-                        <img class="img-fluid" src="assets/img/about/img3.jpg" alt="">
-                        <div class="about-text">
-                            <h3><a href="#">What are the benefits?</a></h3>
-                            <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
-                            <a class="btn btn-common btn-rm" href="#">Read More</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- About Section End -->
-    <!-- Counter Area Start-->
-    <section class="counter-section section-padding">
-        <div class="container">
-            <div class="row">
-                <!-- Counter Item -->
-                <div class="col-12 col-md-6 col-lg-3 text-center">
-                    <div class="counter wow fadeInRight" data-wow-delay="0.3s">
-                        <div class="icon"><i class="lni-map"></i></div>
-                        <p>Wst. Conference Center</p>
-                        <span>San Francisco, CA</span>
-                    </div>
-                </div>
-                <!-- Counter Item -->
-                <div class="col-12 col-md-6 col-lg-3 text-center">
-                    <div class="counter wow fadeInRight" data-wow-delay="0.6s">
-                        <div class="icon"><i class="lni-timer"></i></div>
-                        <p>February 14 - 19, 2018</p>
-                        <span>09:00 AM – 05:00 PM</span>
-                    </div>
-                </div>
-                <!-- Counter Item -->
-                <div class="col-12 col-md-6 col-lg-3 text-center">
-                    <div class="counter wow fadeInRight" data-wow-delay="0.9s">
-                        <div class="icon"><i class="lni-users"></i></div>
-                        <p>343 Available Seats</p>
-                        <span>Hurryup! few tickets are left</span>
-                    </div>
-                </div>
-                <!-- Counter Item -->
-                <div class="col-12 col-md-6 col-lg-3 text-center">
-                    <div class="counter wow fadeInRight" data-wow-delay="1.2s">
-                        <div class="icon"><i class="lni-coffee-cup"></i></div>
-                        <p>Free Lunch & Snacks</p>
-                        <span>Don’t miss it</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Counter Area End-->
-    <!-- Schedule Section Start -->
-    <!-- Schedule Section End -->
-
-    <!-- Styles -->
-    <style>
-        .section-padding {
-            padding: 60px 0;
-        }
-
-        .counter {
-            margin-bottom: 30px;
-            padding: 20px;
-            background-color: #f8f9fa;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-
-            .counter .icon {
-                font-size: 40px;
-                margin-bottom: 15px;
-                color: #007bff;
-            }
-
-            .counter p {
-                font-size: 18px;
-                font-weight: bold;
-                margin-bottom: 5px;
-            }
-
-            .counter span {
-                font-size: 14px;
-                color: #6c757d;
-            }
-    </style>
-
-    <!-- Bootstrap JS and dependencies (for wow.js and other functionalities) -->
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0/js/bootstrap.min.js"></script>
-    <script src="path/to/wow.js"></script>
-    <script>
-        new WOW().init();
-    </script>
-
-    <!-- Styles -->
-    <style>
-        .section-padding {
-            padding: 60px 0;
-        }
-
-        .section-title-header {
-            margin-bottom: 60px;
-        }
-
-        .about-item {
-            margin-bottom: 30px;
-            background-color: #f8f9fa;
-            border-radius: 8px;
-            overflow: hidden;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-
-            .about-item img {
-                width: 100%;
-                height: auto;
-            }
-
-        .about-text {
-            padding: 20px;
-            text-align: center;
-        }
-
-        .btn-common {
-            background-color: #007bff;
-            color: #fff;
-            border: none;
-        }
-
-            .btn-common:hover {
-                background-color: #0056b3;
-            }
-    </style>
-
-
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.5.4/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0/js/bootstrap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
-    <script>
-        new WOW().init();
-    </script>
-</body>
-</html>
+        <!-- Espacement vertical après la section Services -->
+        <div class="mt-5"></div>
+    </div>
+</section>
+<!-- Services Section End -->
